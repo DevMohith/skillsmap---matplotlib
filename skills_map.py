@@ -1,3 +1,5 @@
+#   mY first data visualization using matplotlib
+
 import matplotlib.pyplot as plt
 
 
