@@ -10,7 +10,7 @@ The goal of this project is to create a visual summary of my expertise and techn
 - 🔹 Saved as an image and embedded into `README.md`
 
 
-## 🖼️ Output
+## 🖼️ Outputt
 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/4e8672cd-dac5-4bac-8f27-dfb117ee29e5" />
 
